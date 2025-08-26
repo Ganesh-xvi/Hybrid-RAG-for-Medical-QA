@@ -67,7 +67,7 @@ For medical QA tasks where **faithfulness and hallucination control** are critic
 
 ---
 
-## 🔮 Future Work
+##  Future Work
 
 * Extend dataset with **real-world medical benchmarks** (e.g., PubMedQA, MedQA).
 
