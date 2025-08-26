@@ -1,6 +1,6 @@
 # Hybrid RAG for Medical QA
 
-This project explores **Retrieval-Augmented Generation (RAG)** in the **medical domain** using langchain, focusing on how different retrieval strategies and synthetic dataset creation methods affect the quality of generated answers.
+This project explores **Retrieval-Augmented Generation (RAG)** in the **medical domain** using **langchain**, focusing on how different retrieval strategies and synthetic dataset creation methods affect the quality of generated answers.
 
 The aim is to systematically evaluate retrievers and generation pipelines using both **retrieval-level** and **generation-level** metrics, and provide insights into which approach works best for producing **faithful, relevant, and low-hallucination medical responses**.
 
